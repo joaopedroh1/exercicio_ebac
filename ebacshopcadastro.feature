@@ -23,8 +23,7 @@ Entao deve aparecer uma mensagem de alerta "campo obrigatorio em banco"
 
 Esquema do Cenário: formato de E-mail invalido
 Quando eu digitar o <E-mail>
-com o formato <joaozinho@ebac.com.br
-então deve exibir a <mensagem> de sucesso
+Então deve exibir a <mensagem> de sucesso
 Exemplos:
 usuario                 | mensagem      |
 "joaozinho@ebac.com.br" |  "olá joao !"|
